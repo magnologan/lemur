@@ -38,7 +38,7 @@ gunicorn==19.8.1
 idna==2.7                 # via cryptography
 inflection==0.3.1
 itsdangerous==0.24        # via flask
-jinja2==2.10
+jinja2==2.11.3
 jmespath==0.9.3           # via boto3, botocore
 josepy==1.1.0             # via acme
 jsonlines==1.2.0          # via cloudflare
